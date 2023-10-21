@@ -1,7 +1,7 @@
 # Mouser: Activity Simulator
 This simple Python program, Mouser App, is designed to simulate mouse activity to prevent your computer from going into sleep mode. It's particularly useful when you want to keep your work computer active without having to restart it repeatedly.
 
-<div align="center"> <img src="https://github.com/QC20/Mouser-Activity-Simulator/assets/36644388/b709d702-bbaa-4671-88ae-4a759e9c88d0" width="75%" height="75%"> </div>
+<div align="center"> <img src="https://github.com/QC20/Mouser-Activity-Simulator/assets/36644388/b709d702-bbaa-4671-88ae-4a759e9c88d0" width="50%" height="50%"> </div>
 
 ## Table of Contents
 - [Mouser: Activity Simulator](#mouser-activity-simulator)
