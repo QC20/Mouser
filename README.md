@@ -8,8 +8,6 @@ This simple Python program, Mouser App, is designed to simulate mouse activity t
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
   - [License](#license)
- 
- <div align="center"> <img src="https://github.com/QC20/Mouser-Activity-Simulator/assets/36644388/b709d702-bbaa-4671-88ae-4a759e9c88d0" width="50%" height="50%"> </div>
 
 ## Introduction
 When you're working on your computer and don't want it to go into sleep mode, you can use this program to simulate mouse activity. It moves the mouse cursor in a square pattern, right-clicks, and then waits for a specified duration before repeating the process. This activity keeps your computer awake and prevents it from going to sleep.
@@ -41,6 +39,8 @@ python main.py
 - To stop the activity, click the "Stop" button.
 
 - You can adjust the mouse movements and sleep duration in the code to suit your preferences.
+
+ <div align="center"> <img src="https://github.com/QC20/Mouser-Activity-Simulator/assets/36644388/b709d702-bbaa-4671-88ae-4a759e9c88d0" width="50%" height="50%"> </div>
 
 ## License
 Feel free to use, modify, and share this program as needed to keep your computer active and prevent it from going into sleep mode during your work sessions. If you encounter any issues or have suggestions for improvements, please open an issue on this GitHub repository.
