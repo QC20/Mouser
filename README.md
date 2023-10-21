@@ -40,7 +40,7 @@ python main.py
 
 - You can adjust the mouse movements and sleep duration in the code to suit your preferences.
 
- <div align="center"> <img src="https://github.com/QC20/Mouser-Activity-Simulator/assets/36644388/b709d702-bbaa-4671-88ae-4a759e9c88d0" width="50%" height="50%"> </div>
+ <div align="center"> <img src="https://github.com/QC20/Mouser-Activity-Simulator/assets/36644388/b709d702-bbaa-4671-88ae-4a759e9c88d0" width="100%" height="100%"> </div>
 
 ## License
 Feel free to use, modify, and share this program as needed to keep your computer active and prevent it from going into sleep mode during your work sessions. If you encounter any issues or have suggestions for improvements, please open an issue on this GitHub repository.
