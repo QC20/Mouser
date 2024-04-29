@@ -42,5 +42,9 @@ python main.py
 
  <div align="center"> <img src="https://github.com/QC20/Mouser-Activity-Simulator/assets/36644388/b709d702-bbaa-4671-88ae-4a759e9c88d0" width="75%" height="75%"> </div>
 
+
+ ## Setup.py file
+ The *setup.py* script is used for packaging and distributing Python code. In this setup configuration, it utilizes *cx_Freeze* to create an executable version of the *mouser.py* script. This allows for easy distribution and execution of the Python script as a standalone application across various platforms.
+
 ## License
 Feel free to use, modify, and share this program as needed to keep your computer active and prevent it from going into sleep mode during your work sessions. If you encounter any issues or have suggestions for improvements, please open an issue on this GitHub repository.
